@@ -1,0 +1,1 @@
+epsParam:29.0   minLnsParam:8
